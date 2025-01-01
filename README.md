@@ -14,8 +14,8 @@ This repository contains Terraform configurations for setting up AWS infrastruct
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:datawisey/eks-auto-mode.git
+cd eks-auto-mode
 
 # Verify AWS configuration
 aws sts get-caller-identity
